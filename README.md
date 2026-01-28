@@ -61,7 +61,7 @@ Building a machine learning model to predict Dubai property prices based on loca
 
 ## 📁 Repository Structure
 ```
-Dubai-Property-Price-Prediction/
+Property-Price-Prediction/
 │
 ├── data/                  # Dataset files (not uploaded - too large)
 ├── notebooks/            # Jupyter notebooks

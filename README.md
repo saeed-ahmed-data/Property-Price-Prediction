@@ -7,7 +7,7 @@
 
 > **End-to-end machine learning project predicting house prices with 91.5% accuracy**
 
-Built by **Saeed Ahmed** | [LinkedIn](linkedin.com/in/saeedahmed-data) | sa2474121@gmail.com
+Built by **Saeed Ahmed** | [LinkedIn](www.linkedin.com/in/saeedahmed-data) | sa2474121@gmail.com
 
 ---
 
@@ -294,10 +294,10 @@ Copyright © 2026 Saeed Ahmed
 Interested in discussing this project or exploring collaboration opportunities?
 
 - 📧 **Email:** sa2474121@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/saeedahmed-data]
-- 🌐 **GitHub:** [github.com/Saeed_ahmed_data]
+- 💼 **LinkedIn:** [www.linkedin.com/in/saeedahmed-data]
+- 🌐 **GitHub:** [www.github.com/Saeed_ahmed_data]
 
-I'm actively seeking **Data Analyst**, **Business Intelligence Analyst**, and **Junior Data Scientist** roles in Dubai and remotely.
+I’m exploring and building my own data projects to deepen my experience in the data‑science world and will continue to publish more projects in the future, Insha’Allah. 
 
 ---
 

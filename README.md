@@ -295,7 +295,7 @@ Interested in discussing this project or exploring collaboration opportunities?
 
 - 📧 **Email:** sa2474121@gmail.com
 - 💼 **LinkedIn:** [www.linkedin.com/in/saeedahmed-data]
-- 🌐 **GitHub:** [www.github.com/Saeed_ahmed_data]
+- 🌐 **GitHub:** [www.github.com/Saeed-ahmed-data]
 
 I’m exploring and building my own data projects to deepen my experience in the data‑science world and will continue to publish more projects in the future, Insha’Allah. 
 
